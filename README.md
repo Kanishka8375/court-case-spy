@@ -10,17 +10,11 @@ A professional web application for fetching and displaying case information from
 
 **URL**: https://court-data-fectcher-and-mini-dashboar.netlify.app/
 
-## Project info
-
-**URL**: https://lovable.dev/projects/416dc584-1140-466d-956b-ef83b6cd1411
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/416dc584-1140-466d-956b-ef83b6cd1411) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -151,12 +145,6 @@ For full court scraping functionality:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/416dc584-1140-466d-956b-ef83b6cd1411) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
