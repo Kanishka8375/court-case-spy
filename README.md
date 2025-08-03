@@ -10,13 +10,9 @@ A professional web application for fetching and displaying case information from
 
 **URL**: https://court-data-fectcher-and-mini-dashboar.netlify.app/
 
-
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
