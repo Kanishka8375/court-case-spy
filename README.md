@@ -6,6 +6,10 @@ A professional web application for fetching and displaying case information from
 
 **Delhi High Court** (https://delhihighcourt.nic.in/)
 
+##Project Deployed URL
+
+**URL**: https://court-data-fectcher-and-mini-dashboar.netlify.app/
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/416dc584-1140-466d-956b-ef83b6cd1411
